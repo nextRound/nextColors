@@ -1,0 +1,11 @@
+name: ${project.name}
+author: nextRound
+main: de.nextround.nextcolors.nextColors
+version: ${project.version}
+softdepend: [PlotSquared]
+description: ${project.description}
+website: ${project.url}
+commands:
+  nc:
+  ncu:
+api-version: 1.15

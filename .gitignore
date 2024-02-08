@@ -1,3 +1,9 @@
+# Default ignored files
+/.idea/
+/shelf/
+/workspace.xml
+
+# Maven
 target/
 pom.xml.tag
 pom.xml.releaseBackup
