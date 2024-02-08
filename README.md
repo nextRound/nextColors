@@ -15,7 +15,7 @@ different blocks.
 
 ### How to open the user interface
 
-- Put a **clay ball** item into your main hand
+- Put a **clay** item into your main hand
 - Press the button to switch the item to your off-hand (Default: F)
 
 ## Setup
